@@ -37,7 +37,7 @@ A comunicação ocorre via rede local, sem necessidade de serviços externos.
 ## Demonstração
 Imagens da montagem, interface web e funcionamento do sistema estão disponíveis na pasta [`docs`](./docs).
 
-## 🚀 Possíveis melhorias
+## Possíveis melhorias
 - Autenticação de usuários
 - Controle remoto via internet
 - Registro histórico de temperatura
